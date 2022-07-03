@@ -26,3 +26,11 @@ Testing
 | Command | Description |
 |---------|-------------|
 | go test | Execute test packages |
+
+## Golint
+
+Install using _go install golang.org/x/lint/golint@latest_
+
+| Command | Description |
+|---------|-------------|
+| golint ./... | Run golint against a given path |
