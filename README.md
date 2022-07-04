@@ -20,6 +20,7 @@ Packages
 | go get &lt;url&gt; | Get's packages, downloads to local cache (e.g. go get github.com/putridparrot/GoUnits) |
 | go list | List packages or modules |
 | go vet | List possible mistakes in packages |
+| go mod tidy | Removes any unused dependencies |
 
 Testing
 
